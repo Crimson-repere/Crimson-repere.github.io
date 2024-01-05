@@ -12,7 +12,7 @@ main {
 }
 
 img {
-  max-width: 100%;
+  max-width: 280px;
   display: block;
   border-radius: 15px;
 }
